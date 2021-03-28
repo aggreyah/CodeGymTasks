@@ -747,3 +747,15 @@
 2021-03-28 15:07:50 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
 2021-03-28 15:07:53 INFO  ApacheHttpClient.completed(28) - responseCode = 200
 2021-03-28 15:07:54 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2021-03-28 15:58:03 INFO  ProjectStartupHandler.runActivity(72) - ---------- Project opened ----------
+2021-03-28 15:58:03 INFO  ProjectStartupHandler.runActivity(73) - ---------- Version 3.45 ----------
+
+2021-03-28 15:58:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-03-28 15:58:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-03-28 15:58:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-03-28 15:58:04 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-03-28 15:58:04 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-03-28 15:58:04 INFO  ApacheHttpClient.refreshUserInfo(302) - responseCode = 200
+2021-03-28 15:58:04 INFO  ApacheHttpClient.refreshUserInfo(308) - User information received.
+2021-03-28 15:58:04 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2021-03-28 15:58:04 INFO  AbstractRestApiClient.startService(71) - EventsService started.
