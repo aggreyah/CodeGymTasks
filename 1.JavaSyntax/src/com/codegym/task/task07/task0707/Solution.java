@@ -10,7 +10,7 @@ What sort of list is that?
 public class Solution {
     public static void main(String[] args) throws Exception {
         //write your code here
-        ArrayList<String> stringList = new ArrayList<String>();
+        ArrayList<String> stringList = new ArrayList<>();
         stringList.add("my");
         stringList.add("name");
         stringList.add("is");
