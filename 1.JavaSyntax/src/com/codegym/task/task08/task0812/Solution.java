@@ -13,14 +13,26 @@ public class Solution {
     public static void main(String[] args) throws IOException {
         //write your code here
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        List<Integer> ints = new ArrayList<>();
+        ArrayList<Integer> ints = new ArrayList<>();
         for (int i = 0; i < 10; i++) ints.add(Integer.parseInt(reader.readLine()));
-        int repeated = 1;
-        for (int i = 0; i < ints.size() - 1; i++){
 
-            if (ints.get(i) == ints.get(i + 1)){
-                repeated ++;
+        int currentMaxRepeats = Integer.MIN_VALUE;
+        int nextIndex;
+
+        for (int i = 0; i < ints.size() - 1;){
+            nextIndex = i + 1;
+            if (nextIndex > ints.size() - 1)
+                break;
+            int tempMaxRepeats = 1;
+            while (ints.get(i).equals(ints.get(nextIndex))){
+                tempMaxRepeats ++;
+                nextIndex ++;
+                if (nextIndex > ints.size() - 1)
+                    break;
             }
+            i = nextIndex;
+            if (tempMaxRepeats > currentMaxRepeats) currentMaxRepeats = tempMaxRepeats;
         }
+        System.out.println(currentMaxRepeats);
     }
 }
