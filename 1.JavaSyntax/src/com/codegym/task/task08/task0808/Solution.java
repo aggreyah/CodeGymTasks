@@ -28,21 +28,22 @@ public class Solution {
 
     public static void insert10000(List list) {
         //write your code here
-
+        for (int i = 0; i < 10000; i++)
+            list.add(i);
     }
 
     public static void get10000(List list) {
         //write your code here
-
+        for (int i = 0; i < 10000; i++) list.get(i);
     }
 
     public static void set10000(List list) {
         //write your code here
-
+        for (int i = 0; i < 10000; i++) list.set(i, i*i);
     }
 
     public static void remove10000(List list) {
         //write your code here
-
+        while (!list.isEmpty()) list.remove(0);
     }
 }
