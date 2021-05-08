@@ -6214,3 +6214,45 @@ java.net.UnknownHostException: codegym.cc
 2021-05-07 19:31:05 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
 2021-05-07 19:31:05 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
 2021-05-07 19:31:05 INFO  PluginProjectService.dispose(42) - PluginProjectService disposed.
+2021-05-08 08:18:10 INFO  ProjectStartupHandler.runActivity(72) - ---------- Project opened ----------
+2021-05-08 08:18:10 INFO  ProjectStartupHandler.runActivity(73) - ---------- Version 3.45 ----------
+
+2021-05-08 08:18:13 INFO  HttpsURLConnectionClient.refreshUserInfo(819) - responseCode = 200
+2021-05-08 08:18:13 INFO  HttpsURLConnectionClient.refreshUserInfo(837) - User information received.
+2021-05-08 08:18:13 INFO  HttpsURLConnectionClient.startGA(35) - GAService started.
+2021-05-08 08:18:13 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-05-08 08:19:33 ERROR HttpsURLConnectionClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2021-05-08 08:20:15 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:21:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:22:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:23:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:24:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:25:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:26:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:27:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:28:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:29:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:30:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:31:15 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:32:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:33:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:34:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:35:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:36:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:37:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:38:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:39:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:40:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:41:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:42:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:43:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:44:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:45:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:46:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:47:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:47:33 INFO  HttpsURLConnectionClient.getWebResourceAsStream(633) - responseCode = 200
+2021-05-08 08:47:33 INFO  HttpsURLConnectionClient.getTask(593) - responseCode = 200
+2021-05-08 08:47:35 INFO  HttpsURLConnectionClient.manualComplete(34) - responseCode = 200
+2021-05-08 08:47:36 INFO  HttpsURLConnectionClient.getTask(593) - responseCode = 200
+2021-05-08 08:48:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
+2021-05-08 08:49:14 INFO  HttpsURLConnectionClient.sendEvent(684) - responseCode = 200
