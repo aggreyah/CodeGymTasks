@@ -20,7 +20,6 @@ public class Solution {
         Date date = simpleDateFormatZero.parse(reader.readLine());
         SimpleDateFormat simpleDateFormatOne = new SimpleDateFormat("MMM dd, YYYY");
         String[] string = simpleDateFormatOne.format(date).split(" ");
-        String month = string[0].toUpperCase();
-        System.out.println(month + " " + string[1] + " " + string[2]);
+        System.out.println(string[0].toUpperCase()+ " " + string[1] + " " + string[2]);
     }
 }
