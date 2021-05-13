@@ -7524,3 +7524,52 @@ java.net.UnknownHostException: codegym.cc
 2021-05-10 19:41:23 INFO  ApacheHttpClient.completed(28) - responseCode = 200
 2021-05-10 19:41:23 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
 2021-05-10 19:41:44 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-10 20:06:23 INFO  ProjectStartupHandler.runActivity(72) - ---------- Project opened ----------
+2021-05-10 20:06:23 INFO  ProjectStartupHandler.runActivity(73) - ---------- Version 3.45 ----------
+
+2021-05-10 20:06:24 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-05-10 20:06:24 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-05-10 20:06:24 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-05-10 20:06:25 INFO  ApacheHttpClient.refreshUserInfo(302) - responseCode = 200
+2021-05-10 20:06:25 INFO  ApacheHttpClient.refreshUserInfo(308) - User information received.
+2021-05-10 20:06:25 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2021-05-10 20:06:25 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-05-10 20:06:29 INFO  ProjectStartupHandler.projectClosing(153) - ---------- Project closed ----------
+
+2021-05-10 20:06:29 INFO  PluginProjectService.dispose(42) - PluginProjectService disposed.
+2021-05-13 10:08:57 INFO  ProjectStartupHandler.runActivity(72) - ---------- Project opened ----------
+2021-05-13 10:08:57 INFO  ProjectStartupHandler.runActivity(73) - ---------- Version 3.45 ----------
+
+2021-05-13 10:08:57 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-05-13 10:08:57 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-05-13 10:08:58 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-05-13 10:08:58 INFO  ApacheHttpClient.refreshUserInfo(302) - responseCode = 200
+2021-05-13 10:08:58 INFO  ApacheHttpClient.refreshUserInfo(308) - User information received.
+2021-05-13 10:08:58 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2021-05-13 10:08:58 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-05-13 10:12:58 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2021-05-13 10:12:59 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2021-05-13 10:13:10 INFO  ApacheHttpClient.getTaskTemplateInfo(350) - responseCode = 200
+2021-05-13 10:13:58 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-13 10:14:59 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-13 10:15:23 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2021-05-13 10:15:25 INFO  ApacheHttpClient.resetTask(321) - responseCode = 200
+2021-05-13 10:15:25 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2021-05-13 10:15:26 INFO  ApacheHttpClient.getTaskTemplateInfo(350) - responseCode = 200
+2021-05-13 10:15:58 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-13 10:16:58 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-13 10:17:58 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-13 10:18:58 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-13 10:19:59 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-13 10:20:58 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-13 10:21:58 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-13 10:22:58 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-13 10:23:58 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-13 10:24:30 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2021-05-13 10:24:31 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2021-05-13 10:24:34 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2021-05-13 10:24:34 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2021-05-13 10:24:59 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-13 10:25:58 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-13 10:26:58 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-13 10:27:58 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
