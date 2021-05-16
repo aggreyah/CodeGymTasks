@@ -8034,3 +8034,20 @@ java.net.UnknownHostException: codegym.cc
 2021-05-13 17:41:02 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
 2021-05-13 17:41:02 INFO  PluginProjectService.dispose(42) - PluginProjectService disposed.
 >>>>>>> 49dfeb2493cf52e977ed511a75843a2c8f2ae4e6
+2021-05-16 11:01:58 INFO  ProjectStartupHandler.runActivity(72) - ---------- Project opened ----------
+2021-05-16 11:01:58 INFO  ProjectStartupHandler.runActivity(73) - ---------- Version 3.45 ----------
+
+2021-05-16 11:01:59 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-05-16 11:01:59 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-05-16 11:01:59 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-05-16 11:01:59 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-05-16 11:02:00 INFO  ApacheHttpClient.refreshUserInfo(302) - responseCode = 200
+2021-05-16 11:02:00 INFO  ApacheHttpClient.refreshUserInfo(308) - User information received.
+2021-05-16 11:02:00 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2021-05-16 11:02:00 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-05-16 11:03:00 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-16 11:03:00 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-16 11:04:05 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-16 11:04:09 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-16 13:30:43 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2021-05-16 13:30:43 ERROR ValidateButton.actionPerformed(94) - No task selected!

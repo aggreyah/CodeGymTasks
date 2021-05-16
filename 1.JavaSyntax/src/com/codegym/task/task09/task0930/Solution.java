@@ -3,6 +3,9 @@ package com.codegym.task.task09.task0930;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Iterator;
 
 /* 
 Task about algorithms
@@ -12,7 +15,7 @@ Task about algorithms
 public class Solution {
     public static void main(String[] args) throws Exception {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        ArrayList<String> list = new ArrayList<String>();
+        ArrayList<String> list = new ArrayList<>();
         while (true) {
             String s = reader.readLine();
             if (s.isEmpty()) break;
@@ -29,6 +32,32 @@ public class Solution {
 
     public static void sort(String[] array) {
         // write your code here
+        ArrayList<String> stringPart = new ArrayList<>();
+        ArrayList<Integer> intPart = new ArrayList<>();
+        for (String item : array)
+            if (isNumber(item))
+                intPart.add(Integer.parseInt(item));
+            else
+                stringPart.add(item);
+//      sorting the string part. selection sort.
+        for (int i = 0; i < stringPart.size() - 1; i ++)
+            for (int j = i + 1; j < stringPart.size(); j ++)
+                if (isGreaterThan(stringPart.get(i), stringPart.get(j))){
+                    String temp = stringPart.get(i);
+                    stringPart.set(i, stringPart.get(j));
+                    stringPart.set(j, temp);
+                }
+//      sorting the number part.
+        Collections.sort(intPart, Collections.reverseOrder());
+        Iterator<String> stringsIterator = stringPart.iterator();
+        Iterator<Integer> intsIterator = intPart.iterator();
+
+        for (int i = 0; i < array.length; i ++){
+            if (isNumber(array[i]))
+                array[i] = intsIterator.next().toString();
+            else
+                array[i] = stringsIterator.next();
+        }
     }
 
     // String comparison method: 'a' is greater than 'b'
