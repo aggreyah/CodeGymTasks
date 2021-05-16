@@ -8072,3 +8072,9 @@ java.net.UnknownHostException: codegym.cc
 2021-05-16 13:32:23 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
 2021-05-16 13:32:55 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
 2021-05-16 13:32:55 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-16 13:33:55 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-16 13:33:55 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-16 13:34:55 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-16 13:34:55 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-16 13:35:55 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-16 13:35:55 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
