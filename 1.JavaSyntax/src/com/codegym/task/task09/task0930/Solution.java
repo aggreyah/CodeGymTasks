@@ -3,7 +3,6 @@ package com.codegym.task.task09.task0930;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.Iterator;
 
@@ -35,10 +34,12 @@ public class Solution {
         ArrayList<String> stringPart = new ArrayList<>();
         ArrayList<Integer> intPart = new ArrayList<>();
         for (String item : array)
-            if (isNumber(item))
+            try{
                 intPart.add(Integer.parseInt(item));
-            else
+            }
+            catch (NumberFormatException numberFormatException){
                 stringPart.add(item);
+            }
 //      sorting the string part. selection sort.
         for (int i = 0; i < stringPart.size() - 1; i ++)
             for (int j = i + 1; j < stringPart.size(); j ++)
