@@ -8397,3 +8397,27 @@ java.net.UnknownHostException: codegym.cc
 2021-05-18 16:24:33 INFO  ApacheHttpClient.completed(28) - responseCode = 200
 2021-05-18 16:24:33 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
 2021-05-18 16:24:51 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-23 11:20:33 INFO  ProjectStartupHandler.runActivity(72) - ---------- Project opened ----------
+2021-05-23 11:20:33 INFO  ProjectStartupHandler.runActivity(73) - ---------- Version 3.45 ----------
+
+2021-05-23 11:20:34 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-05-23 11:20:34 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-05-23 11:20:34 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-05-23 11:20:34 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-05-23 11:20:34 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2021-05-23 11:20:35 INFO  ApacheHttpClient.refreshUserInfo(302) - responseCode = 200
+2021-05-23 11:20:35 INFO  ApacheHttpClient.refreshUserInfo(308) - User information received.
+2021-05-23 11:20:35 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2021-05-23 11:20:35 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-05-23 11:21:05 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2021-05-23 11:21:05 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2021-05-23 11:21:20 INFO  ApacheHttpClient.getTaskTemplateInfo(350) - responseCode = 200
+2021-05-23 11:21:35 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-23 11:22:35 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-23 11:23:35 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-23 11:24:35 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2021-05-23 11:24:36 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2021-05-23 11:24:38 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2021-05-23 11:24:38 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2021-05-23 11:24:38 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2021-05-23 11:25:35 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
