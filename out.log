@@ -12612,3 +12612,13 @@ java.net.UnknownHostException: codegym.cc
 2021-06-12 23:13:34 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2021-06-12 23:13:34 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2021-06-12 23:13:36 INFO  AnalyticsService.run(82) - null : error in server. Status code :429
+2021-06-12 23:16:40 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-06-12 23:16:41 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-06-12 23:16:52 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-06-12 23:16:52 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :/home/aggreyah/Documents/Coding/Java/CodeGym/CodeGymTasks/2.JavaCore/src/com/codegym/task/task13/task1325
+2021-06-12 23:16:53 INFO  AnalyticsService.run(82) - null : error in server. Status code :429
+2021-06-12 23:18:56 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-06-12 23:18:58 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-06-12 23:18:58 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-06-12 23:18:58 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-06-12 23:19:00 INFO  AnalyticsService.run(82) - null : error in server. Status code :429
