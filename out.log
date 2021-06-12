@@ -12549,3 +12549,23 @@ java.net.UnknownHostException: codegym.cc
 2021-06-12 22:41:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2021-06-12 22:41:50 INFO  AnalyticsService.run(82) - null : error in server. Status code :429
 2021-06-12 22:42:09 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 22:43:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 22:44:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 22:44:17 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-06-12 22:44:18 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-06-12 22:44:26 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-06-12 22:44:26 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :/home/aggreyah/Documents/Coding/Java/CodeGym/CodeGymTasks/2.JavaCore/src/com/codegym/task/task13/task1321
+2021-06-12 22:44:27 INFO  AnalyticsService.run(82) - null : error in server. Status code :429
+2021-06-12 22:45:09 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 22:46:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 22:47:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 22:48:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 22:49:09 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 22:49:39 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-06-12 22:49:41 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-06-12 22:49:41 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-06-12 22:49:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-06-12 22:49:43 INFO  AnalyticsService.run(82) - null : error in server. Status code :429
+2021-06-12 22:49:54 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-06-12 22:49:55 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-06-12 22:50:09 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
