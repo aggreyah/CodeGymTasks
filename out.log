@@ -12569,3 +12569,36 @@ java.net.UnknownHostException: codegym.cc
 2021-06-12 22:49:54 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
 2021-06-12 22:49:55 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
 2021-06-12 22:50:09 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 22:50:37 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-06-12 22:50:37 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :/home/aggreyah/Documents/Coding/Java/CodeGym/CodeGymTasks/2.JavaCore/src/com/codegym/task/task13/task1322
+2021-06-12 22:50:38 INFO  AnalyticsService.run(82) - null : error in server. Status code :429
+2021-06-12 22:51:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 22:52:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 22:53:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 22:54:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 22:55:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 22:56:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 22:57:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 22:58:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 22:59:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 23:00:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 23:01:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 23:02:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 23:03:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 23:03:38 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-06-12 23:03:40 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-06-12 23:03:40 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-06-12 23:03:40 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-06-12 23:03:42 INFO  AnalyticsService.run(82) - null : error in server. Status code :429
+2021-06-12 23:03:56 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-06-12 23:03:57 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-06-12 23:04:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 23:04:17 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-06-12 23:04:17 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :/home/aggreyah/Documents/Coding/Java/CodeGym/CodeGymTasks/2.JavaCore/src/com/codegym/task/task13/task1323
+2021-06-12 23:04:17 INFO  AnalyticsService.run(82) - null : error in server. Status code :429
+2021-06-12 23:05:10 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-12 23:07:24 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-06-12 23:07:26 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-06-12 23:07:26 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-06-12 23:07:27 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-06-12 23:07:28 INFO  AnalyticsService.run(82) - null : error in server. Status code :429
