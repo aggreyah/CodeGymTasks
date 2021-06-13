@@ -1,7 +1,10 @@
-the quick
-brown
-fox
-jumped
-over
-the
-lazy dog.
+13
+-9
+56
+457
+67
+89
+890
+654
+-4
+-6
