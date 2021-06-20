@@ -13532,3 +13532,128 @@ Caused by: org.apache.http.ConnectionClosedException: Connection closed
 2021-06-20 12:39:40 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2021-06-20 12:39:43 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2021-06-20 12:39:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-06-20 12:40:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 12:41:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 12:42:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 12:43:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 12:44:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 12:45:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 12:46:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 12:47:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 12:48:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 12:49:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 12:50:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 12:51:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 12:52:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 12:53:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 12:54:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 12:55:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 12:56:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 12:57:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 12:58:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 12:59:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:00:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:01:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:02:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:03:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:04:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:05:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:06:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:07:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:08:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:09:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:10:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:11:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:12:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:13:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:14:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:15:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:16:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:17:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:18:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:19:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:19:32 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-06-20 13:19:33 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-06-20 13:19:39 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-06-20 13:19:39 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :/home/aggreyah/Documents/Coding/Java/CodeGym/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1408
+2021-06-20 13:22:41 ERROR ApacheHttpClient.processExceptionSendEvent(110) - (super) : Error while sending the event to the server.
+java.util.concurrent.ExecutionException: java.io.IOException: Connection reset by peer
+	at org.apache.http.concurrent.BasicFuture.getResult(BasicFuture.java:70)
+	at org.apache.http.concurrent.BasicFuture.get(BasicFuture.java:80)
+	at com.homework.plugin.client.ApacheHttpClient.getResponseCode(ApacheHttpClient.java:577)
+	at com.homework.plugin.client.ApacheHttpClient.sendEvent(ApacheHttpClient.java:535)
+	at com.homework.plugin.service.EventsService$1.run(EventsService.java:63)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:356)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.receiveEncryptedData(SSLIOSession.java:451)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.isAppInputReady(SSLIOSession.java:505)
+	at org.apache.http.impl.nio.reactor.AbstractIODispatch.inputReady(AbstractIODispatch.java:120)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.readable(BaseIOReactor.java:162)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvent(AbstractIOReactor.java:337)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvents(AbstractIOReactor.java:315)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:276)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:104)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:588)
+	... 1 more
+2021-06-20 13:23:28 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:24:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:25:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:26:28 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:27:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:28:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:29:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:30:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:31:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:32:28 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:33:28 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:34:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:35:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:36:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:37:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:38:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:39:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:40:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:41:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:42:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:43:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:44:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:45:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:46:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:47:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:48:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:49:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:50:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:51:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:52:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:53:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:54:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:55:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:56:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:57:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:58:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 13:59:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 14:00:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 14:01:28 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 14:02:28 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 14:03:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-20 14:39:48 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-06-20 14:39:50 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-06-20 14:39:51 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-06-20 14:48:40 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-06-20 14:48:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-06-20 14:48:42 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-06-20 14:59:24 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-06-20 14:59:25 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-06-20 14:59:26 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-06-20 14:59:27 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
