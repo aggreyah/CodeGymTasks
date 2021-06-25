@@ -15586,3 +15586,38 @@ java.net.UnknownHostException: codegym.cc
 2021-06-25 09:44:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2021-06-25 09:44:24 INFO  AnalyticsService.run(82) - null : error in server. Status code :429
 2021-06-25 09:44:33 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 09:45:33 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 09:46:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 09:46:56 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-06-25 09:46:57 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-06-25 09:47:07 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-06-25 09:47:07 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :/home/aggreyah/Documents/Coding/Java/CodeGym/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1416
+2021-06-25 09:47:09 INFO  AnalyticsService.run(82) - null : error in server. Status code :429
+2021-06-25 09:47:33 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 09:48:33 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 09:49:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 09:50:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 09:51:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 09:52:33 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 09:53:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 09:53:56 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-06-25 09:53:59 INFO  ApacheHttpClient.resetTask(324) - responseCode = 200
+2021-06-25 09:53:59 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-06-25 09:54:00 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-06-25 09:54:01 INFO  AnalyticsService.run(82) - null : error in server. Status code :429
+2021-06-25 09:54:33 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 09:55:33 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 09:56:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 09:57:33 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 09:58:33 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 09:59:33 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 10:00:33 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 10:01:33 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 10:02:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 10:03:33 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 10:04:33 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-06-25 10:05:03 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-06-25 10:05:05 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-06-25 10:05:05 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-06-25 10:05:05 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-06-25 10:05:07 INFO  AnalyticsService.run(82) - null : error in server. Status code :429
