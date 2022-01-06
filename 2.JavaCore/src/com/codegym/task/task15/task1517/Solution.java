@@ -10,6 +10,8 @@ public class Solution {
 
     static {
         // Throw an exception here
+        if (true)
+            throw new ExceptionInInitializerError();
     }
 
     public static int B = 5;
