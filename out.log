@@ -17177,3 +17177,50 @@ java.net.UnknownHostException: codegym.cc
 2022-01-15 21:35:54 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-01-15 21:36:02 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-01-15 21:36:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-01-15 21:41:19 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-01-15 21:41:19 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-01-16 00:53:32 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-01-16 00:53:33 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-01-16 00:53:33 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-01-16 21:08:25 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-01-16 21:08:25 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.55 ----------
+
+2022-01-16 21:08:25 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-01-16 21:08:25 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-01-16 21:08:26 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-01-16 21:08:26 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-01-16 21:08:26 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-01-16 21:08:26 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-01-16 21:08:26 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-01-17 13:27:29 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-01-17 13:27:30 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-01-17 13:27:36 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-01-17 13:27:37 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/2.JavaCore/src/com/codegym/task/task16/task1611
+2022-01-17 17:02:35 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-01-17 17:02:36 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-01-17 17:02:37 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-01-17 20:26:40 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-01-17 20:26:40 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.55 ----------
+
+2022-01-17 20:26:41 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-01-17 20:26:41 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-01-17 20:26:41 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-01-17 20:26:41 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-01-17 20:26:41 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-01-17 20:26:41 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-01-17 20:26:41 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-01-17 21:15:00 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-01-17 21:15:00 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.55 ----------
+
+2022-01-17 21:15:01 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-01-17 21:15:01 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-01-17 21:15:01 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-01-17 21:15:01 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-01-17 21:15:01 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-01-17 21:15:01 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-01-17 21:37:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-01-17 21:37:19 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-01-17 21:37:30 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-01-17 21:37:30 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
