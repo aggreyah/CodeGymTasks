@@ -17293,3 +17293,40 @@ java.net.UnknownHostException: codegym.cc
 2022-01-19 19:16:32 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-01-19 19:16:40 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-01-19 19:16:40 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-01-19 19:18:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-01-19 19:18:48 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-01-19 19:18:54 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-01-19 19:18:54 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/2.JavaCore/src/com/codegym/task/task16/task1615
+2022-01-19 19:24:40 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-01-19 19:24:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-01-19 19:24:43 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-01-19 19:24:44 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-01-19 19:26:40 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-01-19 19:26:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-01-19 19:26:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-01-19 19:26:43 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-01-20 13:17:05 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-01-20 13:17:05 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.55 ----------
+
+2022-01-20 13:17:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-01-20 13:17:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-01-20 13:17:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-01-20 13:17:06 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-01-20 13:17:06 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-01-20 13:17:06 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-01-20 13:20:27 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-01-20 13:20:28 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-01-20 13:20:41 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-01-20 13:20:41 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/2.JavaCore/src/com/codegym/task/task16/task1616
+2022-01-20 13:20:42 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-01-20 14:01:28 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-01-20 14:01:28 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-01-20 14:01:36 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-01-20 14:03:20 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-01-20 14:03:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-01-20 14:03:28 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-01-20 14:03:43 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-01-20 14:03:44 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-01-20 14:03:52 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-01-20 14:03:53 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
