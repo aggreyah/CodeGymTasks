@@ -17426,3 +17426,11 @@ com.homework.plugin.analytics.PluginWarningException: warning
 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2022-01-22 15:51:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-01-22 15:51:19 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-01-22 15:51:29 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-01-22 15:51:29 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/2.JavaCore/src/com/codegym/task/task16/task1618
+2022-01-22 16:18:35 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-01-22 16:18:36 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-01-22 16:18:38 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-01-22 16:18:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
