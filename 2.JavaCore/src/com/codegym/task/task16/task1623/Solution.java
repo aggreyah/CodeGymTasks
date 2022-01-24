@@ -29,7 +29,8 @@ public class Solution {
             while (true){
                 if (Solution.createdThreadCount < Solution.count)
                     System.out.println(new GenerateThread());
-                return;
+                else
+                    return;
             }
         }
     }

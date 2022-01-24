@@ -17630,3 +17630,23 @@ java.net.UnknownHostException: codegym.cc
 2022-01-24 06:15:25 INFO  ApacheHttpClient.resetTask(324) - responseCode = 200
 2022-01-24 06:15:26 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-01-24 06:15:26 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-01-24 06:46:24 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-01-24 06:46:25 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-01-24 06:46:30 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-01-24 06:46:30 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-01-24 06:48:14 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-01-24 06:48:15 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-01-24 06:50:50 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-01-24 06:50:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-01-24 06:50:51 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-01-24 12:45:47 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-01-24 12:45:47 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.55 ----------
+
+2022-01-24 12:45:48 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-01-24 12:45:48 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-01-24 12:45:48 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-01-24 12:45:48 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-01-24 12:45:48 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-01-24 12:45:49 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-01-24 12:45:49 INFO  ApacheHttpClient.startGA(36) - GAService started.
