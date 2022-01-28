@@ -44,7 +44,6 @@ public class Solution {
                     Note.removeNote(this.getName());
                 }
             } catch (InterruptedException e) {
-                ;
             }
         }
     }
