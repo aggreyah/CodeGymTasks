@@ -58,12 +58,6 @@ public class Solution {
 
         @Override
         public String getFileContents() {
-//            Scanner scanner = new Scanner(new FileReader(this.fileName));
-//            StringBuilder stringBuilder = new StringBuilder();
-//            while (scanner.hasNext()){
-//                stringBuilder.append(scanner.next() + " ");
-//            }
-//            scanner.close();
             return this.fileContents;
         }
 
