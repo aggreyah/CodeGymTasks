@@ -53,7 +53,6 @@ public class Solution {
         SimpleDateFormat dateFormatter = new SimpleDateFormat("MM dd yyyy");
         Date dateOfBirth = dateFormatter.parse(dob);
         Solution.allPeople.get(Integer.parseInt(id)).setBirthDate(dateOfBirth);
-        System.out.println("Person changed:" + Solution.allPeople.get(Integer.parseInt(id)));
     }
 
     private static void addPersonWithSpecifiedArguments(String name, String sex, String dob) throws ParseException {
