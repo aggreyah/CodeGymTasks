@@ -34,7 +34,5 @@ public class Solution {
 
         for (int i : distinctReadBytes)
             System.out.print(i + " ");
-
-
     }
 }
