@@ -23,9 +23,9 @@ public class Solution {
             currentFile = reader.readLine();
         }
 
-        String consolidatedFile = fileNames.get(0).split(Pattern.quote(".part"))[0];
+        String consolidatingFile = fileNames.get(0).split(Pattern.quote(".part"))[0];
 
-        FileOutputStream consolidatedFileOutPutStream = new FileOutputStream(consolidatedFile);
+        FileOutputStream consolidatedFileOutPutStream = new FileOutputStream(consolidatingFile);
 
         List<String> sortedFileNames = new ArrayList<>();
         int index = 1;
