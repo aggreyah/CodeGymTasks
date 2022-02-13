@@ -2,3 +2,4 @@
 19        demo Whiskey                   200.56   43
 87       demo Grinder                   79.99    43
 88       demo goggles                   15.66    543
+89       demo safety boots              89.66    32
