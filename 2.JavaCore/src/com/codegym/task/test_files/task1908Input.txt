@@ -1,0 +1,5 @@
+12 text var2 14 8v 1
+12 text var2 14 8v 1
+12 text var2 14 8v 1
+12 text var2 78 8v 1
+12 text var2 98 67 8v 1t 34
