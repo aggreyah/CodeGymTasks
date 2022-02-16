@@ -31,7 +31,7 @@ public class Solution {
         }
         String fileContentString = builder.toString();
         fileContentString = fileContentString.replaceAll("\\r\\n|\\r|\\n", " ");
-        fileContentString = fileContentString.replaceAll("\\p{P}", " ");
+        fileContentString = fileContentString.replaceAll("\\p{P}", "");
         String [] fileContectNoSpaces = fileContentString.split(" ");
 
         int numOfTimesWorldExists = 0;
