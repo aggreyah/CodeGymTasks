@@ -1,0 +1,7 @@
+line one is going to be the same
+line two is going to be removed
+line three is going to be the same
+line four is going to be removed
+line five is going to be the same
+line seven is going to be the same
+line nine is going to be the same
