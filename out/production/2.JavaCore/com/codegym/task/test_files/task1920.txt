@@ -1,0 +1,6 @@
+Peterson 0.501
+Smith 1.35
+Peterson 0.85
+Aggrey 1.35
+Zebra 1.35
+Lion 0.90
