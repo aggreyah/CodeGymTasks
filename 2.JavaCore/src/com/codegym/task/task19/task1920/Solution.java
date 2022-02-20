@@ -25,11 +25,10 @@ public class Solution {
             String name = nameAndSalary[0];
             String salaryString = nameAndSalary[1];
             double salary = Double.parseDouble(salaryString);
-            double salaryTwoDecimals = Double.parseDouble(String.format("%.2f", salary));
             if (nameSalaryPair.containsKey(name))
-                nameSalaryPair.replace(name, nameSalaryPair.get(name) + salaryTwoDecimals);
+                nameSalaryPair.replace(name, nameSalaryPair.get(name) + salary);
             else
-                nameSalaryPair.put(name, salaryTwoDecimals);
+                nameSalaryPair.put(name, salary);
         }
         reader.close();
         fileReader.close();
