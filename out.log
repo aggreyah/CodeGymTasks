@@ -21899,3 +21899,11 @@ java.net.UnknownHostException: codegym.cc
 2022-02-18 19:22:19 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-02-18 19:22:25 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-02-18 19:22:26 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-18 19:25:40 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-18 19:25:42 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-02-18 19:25:53 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-02-18 19:25:53 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/2.JavaCore/src/com/codegym/task/task19/task1918
+2022-02-20 12:01:00 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-20 12:01:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-20 12:01:09 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-02-20 12:01:09 INFO  ApacheHttpClient.getTask(488) - responseCode = 200

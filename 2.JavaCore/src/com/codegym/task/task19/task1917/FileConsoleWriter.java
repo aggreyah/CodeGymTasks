@@ -5,8 +5,10 @@ Your own FileWriter
 
 */
 
-import java.io.*;
-import java.util.Arrays;
+import java.io.File;
+import java.io.FileDescriptor;
+import java.io.FileWriter;
+import java.io.IOException;
 
 public class FileConsoleWriter {
     private FileWriter fileWriter;
