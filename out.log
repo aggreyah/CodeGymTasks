@@ -22000,3 +22000,154 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2022-02-20 19:13:54 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-02-20 19:14:01 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-02-20 19:14:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-20 19:17:54 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-20 19:17:59 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-02-20 19:18:10 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-02-20 19:18:10 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/2.JavaCore/src/com/codegym/task/task19/task1923
+2022-02-20 20:08:03 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-20 20:08:05 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-20 20:08:09 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-02-20 20:08:10 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-20 20:09:29 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-20 20:09:30 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-02-20 20:09:53 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-02-20 20:09:53 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/2.JavaCore/src/com/codegym/task/task19/task1924
+2022-02-20 23:58:22 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-20 23:58:23 INFO  ApacheHttpClient.resetTask(324) - responseCode = 200
+2022-02-20 23:58:24 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-20 23:58:24 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-02-21 02:19:43 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-21 02:19:44 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-21 02:19:49 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-02-21 02:19:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-21 02:22:20 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-21 02:22:21 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-02-21 02:22:40 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-02-21 02:22:40 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/2.JavaCore/src/com/codegym/task/task19/task1925
+2022-02-21 02:53:04 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-21 02:53:05 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-21 02:53:13 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-02-21 11:07:34 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-21 11:07:36 INFO  ApacheHttpClient.resetTask(324) - responseCode = 200
+2022-02-21 11:07:37 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-21 11:07:37 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-02-21 11:28:06 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-02-21 11:28:06 ERROR ApacheHttpClient.getTask(492) - Error while downloading the task. Be sure you have a network connection and try again.
+java.util.concurrent.ExecutionException: java.io.IOException: An existing connection was forcibly closed by the remote host
+	at org.apache.http.concurrent.BasicFuture.getResult(BasicFuture.java:70)
+	at org.apache.http.concurrent.BasicFuture.get(BasicFuture.java:80)
+	at com.homework.plugin.client.ApacheHttpClient.getResponseCode(ApacheHttpClient.java:577)
+	at com.homework.plugin.client.ApacheHttpClient.getTask(ApacheHttpClient.java:488)
+	at com.homework.plugin.extension.ProjectStartupHandler$2.projectClosing(ProjectStartupHandler.java:176)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl$1.projectClosing(ProjectManagerImpl.java:115)
+	at com.intellij.util.messages.impl.MessageBusImpl.invokeMethod(MessageBusImpl.java:645)
+	at com.intellij.util.messages.impl.MessageBusImpl.invokeListener(MessageBusImpl.java:620)
+	at com.intellij.util.messages.impl.MessageBusImpl.access$300(MessageBusImpl.java:33)
+	at com.intellij.util.messages.impl.MessageBusImpl$MessagePublisher.executeOrAddToQueue(MessageBusImpl.java:208)
+	at com.intellij.util.messages.impl.CompositeMessageBus$ToDirectChildrenMessagePublisher.publish(CompositeMessageBus.java:105)
+	at com.intellij.util.messages.impl.MessageBusImpl$MessagePublisher.invoke(MessageBusImpl.java:166)
+	at com.sun.proxy.$Proxy84.projectClosing(Unknown Source)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.fireProjectClosing(ProjectManagerImpl.java:414)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.lambda$closeProject$5(ProjectManagerImpl.java:371)
+	at com.intellij.openapi.util.ShutDownTracker.executeWithStopperThread(ShutDownTracker.java:114)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.closeProject(ProjectManagerImpl.java:354)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.closeAndDisposeAllProjects(ProjectManagerImpl.java:301)
+	at com.intellij.openapi.application.impl.ApplicationImpl.disposeSelf(ApplicationImpl.java:203)
+	at com.intellij.openapi.application.impl.ApplicationImpl.doExit(ApplicationImpl.java:601)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:554)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:543)
+	at com.intellij.openapi.application.ex.ApplicationEx.exit(ApplicationEx.java:75)
+	at com.intellij.openapi.wm.impl.CloseProjectWindowHelper.quitApp(CloseProjectWindowHelper.kt:67)
+	at com.intellij.openapi.wm.impl.CloseProjectWindowHelper.windowClosing(CloseProjectWindowHelper.kt:45)
+	at com.intellij.openapi.wm.impl.ProjectFrameHelper$2.windowClosing(ProjectFrameHelper.java:231)
+	at java.desktop/java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:357)
+	at java.desktop/java.awt.Window.processWindowEvent(Window.java:2096)
+	at java.desktop/javax.swing.JFrame.processWindowEvent(JFrame.java:298)
+	at java.desktop/java.awt.Window.processEvent(Window.java:2055)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5029)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2790)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4861)
+	at com.intellij.openapi.wm.impl.customFrameDecorations.header.CustomHeader.close(CustomHeader.kt:234)
+	at com.intellij.openapi.wm.impl.customFrameDecorations.header.CustomHeader$myCloseAction$1.invoke(CustomHeader.kt:231)
+	at com.intellij.openapi.wm.impl.customFrameDecorations.header.CustomHeader$myCloseAction$1.invoke(CustomHeader.kt:39)
+	at com.intellij.openapi.wm.impl.customFrameDecorations.header.CustomHeader$CustomFrameAction.actionPerformed(CustomHeader.kt:241)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:270)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:297)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6654)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3345)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6419)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5029)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4861)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2790)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4861)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:891)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:820)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:757)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:447)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:818)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:446)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:805)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:498)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+Caused by: java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:356)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.receiveEncryptedData(SSLIOSession.java:451)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.isAppInputReady(SSLIOSession.java:505)
+	at org.apache.http.impl.nio.reactor.AbstractIODispatch.inputReady(AbstractIODispatch.java:120)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.readable(BaseIOReactor.java:162)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvent(AbstractIOReactor.java:337)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvents(AbstractIOReactor.java:315)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:276)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:104)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:588)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-02-21 11:28:08 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-21 11:28:09 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-21 11:28:09 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-21 11:28:09 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-02-21 12:05:55 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-02-21 12:05:55 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-02-21 12:05:55 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-02-21 12:05:55 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-02-21 12:05:55 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-02-21 12:05:56 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-02-21 12:05:56 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-02-21 12:05:56 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-02-21 12:05:56 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-02-21 13:14:37 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-02-21 13:14:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-02-21 13:14:45 INFO  ApacheHttpClient.completed(32) - responseCode = 200
