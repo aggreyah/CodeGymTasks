@@ -27,7 +27,7 @@ public class Solution {
 
             for (String word : words) {
                 String goodWord = removePunctuationAtEndOfWord(word);
-                if (word.equals(goodWord)){
+                if (word.equals(goodWord)){//
                     // no punctuation
                     if (word.length() > 6){
                         if (!firstWordMoreThanSixChars){
