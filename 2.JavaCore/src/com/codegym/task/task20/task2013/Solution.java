@@ -78,7 +78,7 @@ public class Solution {
         aggrey.setChildren(aggreyChildren);
 
         try {
-            ObjectOutputStream os = new ObjectOutputStream(new FileOutputStream("aggreyah.ser"));
+            ObjectOutputStream os = new ObjectOutputStream(new FileOutputStream(File.createTempFile("aggreyah", ".ser")));
             os.writeObject(aggrey);
             os.close();
         } catch (Exception e) {
@@ -88,6 +88,7 @@ public class Solution {
         try {
             ObjectInputStream is = new ObjectInputStream(new FileInputStream("aggreyah.ser"));
             Person aggreyInflated = (Person) is.readObject();
+            is.close();
             for (Person child: aggreyInflated.children) {
                 System.out.println(child.firstName + " " + child.lastName);
             }
