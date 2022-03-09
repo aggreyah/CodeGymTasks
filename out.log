@@ -22806,3 +22806,60 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2022-03-07 18:09:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-03-07 18:09:44 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-03-07 18:09:44 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-07 18:12:56 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-07 18:12:57 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-07 18:13:07 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-07 18:13:07 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/2.JavaCore/src/com/codegym/task/task20/task2012
+2022-03-07 18:15:09 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-07 18:15:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-07 18:15:13 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-03-07 18:15:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-07 18:16:52 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-07 18:16:53 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-07 18:17:12 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-07 18:17:12 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/2.JavaCore/src/com/codegym/task/task20/task2013
+2022-03-07 18:24:00 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-07 18:24:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-07 18:24:02 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-03-07 20:12:00 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-07 20:12:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-07 20:12:02 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-03-08 16:06:54 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-03-08 16:06:54 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-03-08 16:06:55 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-08 16:06:55 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-08 16:06:55 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-08 16:06:55 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-08 16:06:56 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-03-08 16:06:56 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-03-08 16:06:56 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-03-08 16:17:08 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-08 16:17:19 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-08 16:17:21 INFO  ApacheHttpClient.resetTask(324) - responseCode = 200
+2022-03-08 16:17:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-08 16:17:22 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-08 16:22:43 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-08 16:22:45 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-08 16:22:45 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-03-08 17:41:41 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-03-08 17:41:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-08 17:41:43 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-03-08 17:43:15 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-03-08 17:43:15 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-03-08 17:43:15 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-08 17:43:15 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-08 17:43:15 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-08 17:43:15 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-08 17:43:16 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-08 17:43:16 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-03-08 17:43:16 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-03-08 17:43:16 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-03-09 10:08:14 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-09 10:08:16 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-09 10:08:16 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-03-09 10:08:17 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-09 10:09:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-09 10:09:22 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
