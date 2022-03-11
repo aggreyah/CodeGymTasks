@@ -22863,3 +22863,77 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2022-03-09 10:08:17 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-03-09 10:09:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
 2022-03-09 10:09:22 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-09 10:11:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-09 10:11:37 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-09 10:13:03 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-09 10:13:03 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-09 10:13:11 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-09 10:13:11 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/2.JavaCore/src/com/codegym/task/task20/task2014
+2022-03-09 11:12:34 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-09 11:12:36 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-09 11:12:38 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-03-09 11:12:58 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-09 11:12:58 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-09 11:13:01 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-03-09 11:13:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-09 11:14:54 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-09 11:14:54 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-09 11:15:02 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-09 11:15:02 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/2.JavaCore/src/com/codegym/task/task20/task2015
+2022-03-09 11:42:38 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-09 11:42:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-09 11:42:41 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-03-09 11:42:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-09 11:44:29 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-09 11:44:30 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-09 11:57:05 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-09 11:57:06 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-09 11:57:15 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-09 11:57:15 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/2.JavaCore/src/com/codegym/task/task20/task2016
+2022-03-09 11:58:51 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-09 11:58:54 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-03-09 11:58:55 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-09 11:58:55 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-09 12:00:41 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-09 12:00:43 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-09 12:00:53 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-09 12:00:53 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/2.JavaCore/src/com/codegym/task/task20/task2017
+2022-03-10 09:49:03 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-10 09:49:04 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-10 09:49:07 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-03-10 09:49:56 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-10 09:49:56 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-10 09:50:02 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-03-10 09:50:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-10 09:50:26 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-10 09:50:27 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-10 09:50:37 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-10 09:50:37 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/2.JavaCore/src/com/codegym/task/task20/task2018
+2022-03-10 12:28:40 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-10 12:28:41 INFO  ApacheHttpClient.resetTask(324) - responseCode = 200
+2022-03-10 12:28:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-10 12:28:43 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-10 16:16:46 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-10 16:16:48 INFO  ApacheHttpClient.resetTask(324) - responseCode = 200
+2022-03-10 16:16:48 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-10 16:16:50 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-11 22:21:56 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-03-11 22:21:56 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-03-11 22:21:56 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-11 22:21:56 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-11 22:21:56 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-11 22:21:57 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-03-11 22:21:57 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-03-11 22:21:57 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-03-11 22:24:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-11 22:24:37 INFO  ApacheHttpClient.resetTask(324) - responseCode = 200
+2022-03-11 22:24:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-11 22:24:40 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-11 22:52:10 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-11 22:52:12 INFO  ApacheHttpClient.resetTask(324) - responseCode = 200
+2022-03-11 22:52:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-11 22:52:13 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-11 22:59:52 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-11 22:59:53 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-11 22:59:56 INFO  ApacheHttpClient.completed(32) - responseCode = 200
