@@ -23372,3 +23372,27 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2022-03-15 11:03:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-03-15 11:03:02 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-03-15 11:03:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-15 11:05:25 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-15 11:05:26 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 11:05:41 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-15 11:05:41 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/2.JavaCore/src/com/codegym/task/task20/task2025
+2022-03-15 12:23:45 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-03-15 12:23:45 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-03-15 12:23:45 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-15 12:23:45 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-15 12:23:45 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-15 12:23:46 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-03-15 12:23:46 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-03-15 12:23:46 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-03-15 15:46:58 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-15 15:47:04 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-15 15:47:35 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-03-15 15:58:09 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-15 15:58:11 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 15:58:17 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-15 15:58:17 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/2.JavaCore/src/com/codegym/task/task20/task2026
+2022-03-15 16:17:27 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-15 16:17:28 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 16:17:34 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-15 16:17:34 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/2.JavaCore/src/com/codegym/task/task20/task2027
