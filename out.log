@@ -23396,3 +23396,55 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2022-03-15 16:17:28 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
 2022-03-15 16:17:34 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
 2022-03-15 16:17:34 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/2.JavaCore/src/com/codegym/task/task20/task2027
+2022-03-15 22:53:38 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-15 22:53:39 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 22:53:43 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 22:53:53 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 22:53:59 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 22:54:03 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 22:54:08 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 22:54:12 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 22:54:21 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 22:54:30 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 22:54:36 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 22:54:43 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-15 22:54:43 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/3.JavaMultithreading/src/com
+2022-03-15 22:54:43 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/3.JavaMultithreading/src/com/codegym
+2022-03-15 22:54:43 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/3.JavaMultithreading/src/com/codegym/task
+2022-03-15 22:54:43 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/3.JavaMultithreading/src/com/codegym/task/task21
+2022-03-15 22:54:43 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/aggreyah/Documents/Coding/CodeGymTasks/3.JavaMultithreading/src/com/codegym/task/task21/task2101
+2022-03-15 23:16:28 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-03-15 23:16:30 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-15 23:16:31 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-15 23:16:31 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-15 23:16:31 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-15 23:16:32 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-03-17 19:36:03 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-03-17 19:36:03 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-03-17 19:36:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-17 19:36:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-17 19:36:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-17 19:36:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-17 19:36:04 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-03-17 19:36:04 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-03-17 19:36:04 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-03-18 09:23:51 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-03-18 09:23:54 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-18 09:23:54 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-03-18 14:03:40 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-03-18 14:03:40 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-03-18 14:03:40 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-18 14:03:40 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-18 14:03:40 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-18 14:03:40 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-18 14:03:41 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-03-18 14:03:41 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-03-18 14:03:41 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-03-18 16:58:33 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-18 16:58:34 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-18 16:58:35 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-03-18 16:58:35 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
