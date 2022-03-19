@@ -1,0 +1,21 @@
+taskKey="com.codegym.task.task21.task2113.big01"\n\nHippodrome (part 1)
+
+
+Today we&#39;ll write a small game called &#39;Hippodrome&#39;.
+And when I say we, I mean you. I will be your mentor.
+
+To start, we&#39;ll need Hippodrome and Horse classes.
+Create the Hippodrome and Horse classes.
+
+And don&#39;t forget that every program starts with a main method.
+Add one to the Hippodrome class.
+
+
+Требования:
+1.	The Hippodrome class must be in a separate file.
+2.	The Horse class must be in a separate file.
+3.	The Hippodrome class must be declared with the public access modifier.
+4.	The Horse class must be declared with the public access modifier.
+5.	A public static void main(String[] args) method must be created in the Hippodrome class.
+
+
