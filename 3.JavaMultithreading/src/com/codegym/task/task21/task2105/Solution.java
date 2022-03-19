@@ -17,10 +17,39 @@ public class Solution {
     }
 
     public boolean equals(Object o) {
+        if (this == o)
+            return true;
         if (!(o instanceof Solution))
             return false;
         Solution n = (Solution) o;
-        return n.first.equals(first) && n.last.equals(last);
+
+        if (this.first != null){
+            if (!this.first.equals(n.first))
+                return false;
+        }
+        else {
+            if (n.first != null)
+                return false;
+        }
+
+        if (this.last != null){
+            if (!this.last.equals(n.last))
+                return false;
+        }
+        else {
+            if (n.last != null)
+                return false;
+        }
+        return true;
+    }
+
+    @Override
+    public int hashCode() {
+        final int prime = 31;
+        int result = 1;
+        result = prime * result + (this.first == null? 0: this.first.hashCode());
+        result = prime * result + (this.last == null? 0: this.last.hashCode());
+        return result;
     }
 
     public static void main(String[] args) {
