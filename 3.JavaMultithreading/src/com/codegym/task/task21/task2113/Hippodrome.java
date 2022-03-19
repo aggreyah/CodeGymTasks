@@ -4,6 +4,11 @@ import java.util.List;
 
 public class Hippodrome {
     private List<Horse> horses;
+
+    public Hippodrome(List<Horse> listOfHorses){
+        this.horses = listOfHorses;
+    }
+
     public static void main(String[] args) {
 
     }
