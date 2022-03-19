@@ -1,4 +1,22 @@
-taskKey="com.codegym.task.task21.task2113.big11"\n\nHippodrome (part 11)
+taskKey="com.codegym.task.task21.task2113.big12"\n\nHippodrome (part 12)
+
+
+There&#39;s just a little left to do: finish writing the Horse class.
+The move method is called each time a horse takes a step.
+When the move method is called on a horse, the horse must run a certain distance.
+The distance depends on the horse&#39;s speed. In its simplest form, this method would look something like this:
+distance += speed;
+
+But to make it more interesting, let&#39;s make the speed change a little bit all the time.
+To achieve this, multiply the speed by a random number.
+A random number can be obtained using the Math.random() method.
+
+
+Требования:
+1.	In the Horse class&#39;s move method, the value of the distance field must increase by the distance traveled in one &quot;step&quot; (value of the speed field) multiplied by a random number between zero and one obtained using the Math.random() method.
+
+
+Hippodrome (part 12)
 
 
 We&#39;re almost done with the Hippodrome class.
@@ -12,11 +30,8 @@ Hint 2:
 game.run();
 
 
-Требования:
-1.	The main method must call the run method on a Hippodrome object.
 
-
-Hippodrome (part 11)
+Hippodrome (part 12)
 
 
 We still need to write the Hippodrome class&#39;s print method.
@@ -25,7 +40,7 @@ Oh, and display 10 empty lines after the loop (using System.out.println()) to ma
 
 
 
-Hippodrome (part 11)
+Hippodrome (part 12)
 
 
 Now let&#39;s return to the move and print methods. Let&#39;s start with move.
@@ -40,7 +55,7 @@ Make all of the methods public unless indicated otherwise.
 
 
 
-Hippodrome (part 11)
+Hippodrome (part 12)
 
 
 Make a loop from 1 to 100 in the run method. This will be our race.
@@ -49,7 +64,7 @@ To prevent the whole loop from finishing in a split second, add Thread.sleep(200
 
 
 
-Hippodrome (part 11)
+Hippodrome (part 12)
 
 
 But that&#39;s not all. We need to make the horses run.
@@ -57,22 +72,6 @@ Add run, move, and print methods to the Hippodrome class. Without parameters.
 The move method will control the movement of all horses.
 The print method will draw them on the screen.
 And the run method manages it all.
-
-
-
-Hippodrome (part 11)
-
-
-Now let&#39;s move on to the Hippodrome class and the main method.
-We need to create a Hippodrome object and add some horses to it.
-
-To start, in the Hippodrome class:
-Create a static Hippodrome game field.
-
-The main method requires the following:
-a) Create a Hippodrome object and save it in the game field.
-b) Create three Horse objects. Make up their names yourself. Each horse&#39;s initial speed is 3, and its distance is 0.
-c) Add the created horses to the hippodrome&#39;s list of horses (horses). You can use the getHorses method to get the list of horses.
 
 
 
