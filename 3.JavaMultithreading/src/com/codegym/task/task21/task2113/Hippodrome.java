@@ -11,7 +11,7 @@ public class Hippodrome {
         this.horses = listOfHorses;
     }
     
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         Horse horse1 = new Horse("Horse1", 3, 0);
         Horse horse2 = new Horse("Horse2", 3, 0);
         Horse horse3 = new Horse("Horse3", 3, 0);
@@ -22,6 +22,8 @@ public class Hippodrome {
         myHorses.add(horse3);
 
         game = new Hippodrome(myHorses);
+
+        game.run();
     }
 
     public List<Horse> getHorses() {
