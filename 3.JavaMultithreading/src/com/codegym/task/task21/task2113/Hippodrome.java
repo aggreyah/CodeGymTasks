@@ -8,7 +8,7 @@ public class Hippodrome {
     public Hippodrome(List<Horse> listOfHorses){
         this.horses = listOfHorses;
     }
-
+    
     public static void main(String[] args) {
 
     }
