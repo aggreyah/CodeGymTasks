@@ -24,6 +24,7 @@ public class Hippodrome {
         game = new Hippodrome(myHorses);
 
         game.run();
+        game.printWinner();
     }
 
     public List<Horse> getHorses() {
@@ -51,5 +52,21 @@ public class Hippodrome {
         for (int i = 0; i < 10; i++){
             System.out.println();
         }
+    }
+
+    public Horse getWinner(){
+        double longestDist = 0.0;
+        Horse winner = null;
+        for (Horse horse: this.getHorses()) {
+            if (horse.getDistance() > longestDist){
+                longestDist = horse.getDistance();
+                winner = horse;
+            }
+        }
+        return winner;
+    }
+
+    public void printWinner(){
+        System.out.println(String.format("The winner is %s!", this.getWinner().getName()));
     }
 }

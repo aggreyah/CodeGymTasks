@@ -1,4 +1,43 @@
-taskKey="com.codegym.task.task21.task2113.big13"\n\nHippodrome (part 13)
+taskKey="com.codegym.task.task21.task2113.big15"\n\nHippodrome (part 15)
+
+
+Add code to announce the winner.
+We&#39;ll make two methods in the Hippodrome class:
+public Horse getWinner() and public void printWinner()
+
+The getWinner method must return the horse that has run the farthest.
+The printWinner method displays the winner&#39;s name as follows:
+The winner is &lt;name&gt;!
+Example:
+The winner is Lucky!
+
+
+Требования:
+1.	A getWinner method with no parameters must be created in the Hippodrome class.
+2.	A printWinner method with no parameters must be created in the Hippodrome class.
+3.	The getWinner method must return the horse that has run the farthest.
+4.	The printWinner method should display the winner&#39;s name on the screen in the format specified in the task conditions.
+
+
+Hippodrome (part 15)
+
+
+Time to enjoy our creation.
+A new snapshot of the racetrack is displayed every half second.
+Use the mouse to decrease the size of the console so that only one &quot;snapshot&quot; is visible at a time and remains in the same place.
+Then you can watch the race live and even commentate:
+- They&#39;re off!
+- Homer suddenly flies past Lucky.
+- Slevin rushes forward.
+- Lucky takes the lead!
+- 10 bucks on Slevin.
+- Looks like Lucky has thrown off his jockey and is cooling off.
+- Homer bursts head.
+- An entirely unexpected win for Homer! What a trick!
+
+
+
+Hippodrome (part 15)
 
 
 Now we&#39;ll return to the Horse class&#39;s print method.
@@ -11,11 +50,8 @@ In other words, the print method should display a string consisting of dots and 
 The number of dots is equal to distance, rounded down to an integer.
 
 
-Требования:
-1.	The print method should display a string consisting of dots and the horse&#39;s name. The number of dots is equal to the integer part of the distance.
 
-
-Hippodrome (part 13)
+Hippodrome (part 15)
 
 
 There&#39;s just a little left to do: finish writing the Horse class.
@@ -30,7 +66,7 @@ A random number can be obtained using the Math.random() method.
 
 
 
-Hippodrome (part 13)
+Hippodrome (part 15)
 
 
 We&#39;re almost done with the Hippodrome class.
@@ -45,36 +81,12 @@ game.run();
 
 
 
-Hippodrome (part 13)
+Hippodrome (part 15)
 
 
 We still need to write the Hippodrome class&#39;s print method.
 Everything is simple here, too: In a loop, we call the print method on each horse.
 Oh, and display 10 empty lines after the loop (using System.out.println()) to make it more beautiful.
-
-
-
-Hippodrome (part 13)
-
-
-Now let&#39;s return to the move and print methods. Let&#39;s start with move.
-In the Hippodrome class&#39;s move method, we call the move method on each horse in the loop.
-
-Yes, you&#39;re right: the Horse class doesn&#39;t have it yet.
-This means you need to add your own move method to the Horse class. :)
-Oh, and the print method, too.
-If I don&#39;t say anything about a method&#39;s parameters, then the method doesn&#39;t have any parameters.
-Make all of the methods public unless indicated otherwise.
-
-
-
-
-Hippodrome (part 13)
-
-
-Make a loop from 1 to 100 in the run method. This will be our race.
-In the body of the loop, we&#39;ll call move first, then print.
-To prevent the whole loop from finishing in a split second, add Thread.sleep(200); as well.
 
 
 
