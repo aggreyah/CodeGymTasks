@@ -39,5 +39,12 @@ public class Horse {
         this.distance += Math.random() * this.speed;
     }
 
-    public void print(){}
+    public void print(){
+        final int numOfDots = (int) this.getDistance();
+        StringBuilder dots = new StringBuilder();
+        for (int i = 0; i < numOfDots; i++){
+            dots.append('.');
+        }
+        System.out.println(dots + this.getName());
+    }
 }
