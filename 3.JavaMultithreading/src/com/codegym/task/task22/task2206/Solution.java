@@ -17,7 +17,6 @@ public class Solution {
     }
 
     public static String getFormattedString() {
-        SimpleDateFormat sdf = new SimpleDateFormat();
         return "%1$tm:%2$td:%3$ty %4$tH:%5$tM:%6$tS";
     }
 }
